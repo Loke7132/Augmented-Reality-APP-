@@ -29,4 +29,7 @@ This augmented reality (AR) app allows users to interact with various 3D models 
 - **Blender:** Software for designing and animating 3D models.
 - **C#:** Programming language for scripting the interactions and animations.
 
-p
+## Contact
+For any questions or inquiries, please contact:
+
+Email: ls6110@nyu.edu
